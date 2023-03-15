@@ -1,0 +1,5 @@
+This is from the Sunshine project from a Udacity Android course. The project has been upgraded to
+use the latest Android techs.
+However, the menu to Settings is broken, since that process is cumbersome with Navigation component
+which includes a navigation_settings.xml, a SettingsActivity, a SettingsFragment and a
+PreferenceFragment
